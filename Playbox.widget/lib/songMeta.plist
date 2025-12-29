@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>albumName</key>
+	<string>Volcano</string>
+	<key>artistName</key>
+	<string>A Tribe Called Quest</string>
+	<key>coverURL</key>
+	<string>https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1</string>
+	<key>currentPosition</key>
+	<string>54</string>
+	<key>isLoved</key>
+	<string>false</string>
+	<key>oldFilename</key>
+	<string>NA</string>
+	<key>songChanged</key>
+	<string>true</string>
+	<key>songDuration</key>
+	<string>217</string>
+	<key>songName</key>
+	<string>Buggin' Out</string>
+</dict>
+</plist>
